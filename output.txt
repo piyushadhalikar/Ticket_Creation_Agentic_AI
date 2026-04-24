@@ -1,0 +1,15 @@
+python agent.py 
+
+Enter issue (or 'exit'): Server is down and CPU usage is 100%
+
+[User Input]: Server is down and CPU usage is 100%
+
+[Generated Ticket]:
+{
+  "id": "TICKET-1777018408",
+  "title": "Server is down",
+  "description": "Server is down and CPU usage is 100%",
+  "priority": "High",
+  "type": "infra",
+  "created_at": "2026-04-24 04:13:28.917427"
+}
