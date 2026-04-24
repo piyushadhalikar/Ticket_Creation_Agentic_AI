@@ -20,3 +20,11 @@ LLM (OpenAI) → reasoning + extraction
 Agent → decides what to do
 Tools → create_ticket, classify_issue
 Memory (optional) → conversation history
+
+📁 Project Structure
+ai-ticket-agent/
+│── agent.py
+│── tools.py
+│── config.py
+│── requirements.txt
+│── README.md
