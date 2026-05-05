@@ -16,7 +16,7 @@ User Input → LLM Agent → Tool Selection → Ticket Generator → Output/API
 
 Components:
 
-LLM (OpenAI) → reasoning + extraction
+LLM (GroqAI) → reasoning + extraction
 Agent → decides what to do
 Tools → create_ticket, classify_issue
 Memory (optional) → conversation history
